@@ -1,1 +1,1 @@
-# Predicci-n-de-respuesta-al-tratamiento-de-c-ncer-en-piel-mediante-an-lisis-transcript-micos
+# Predicción-de-respuesta-al-tratamiento-de-cáncer-en-piel-mediante-análisis-transcriptómicos
