@@ -1,0 +1,254 @@
+Patient;Diagnosis Age;Disease Stage;Ethnicity Category;Fraction Genome Altered;Radiation Therapy;Sex;Overall Survival Status
+P1;50;STAGE III;Not Hispanic Or Latino;0.5160;No;Male;1
+P2;46;STAGE IIC;;0.6825;No;Female;0
+P3;56;STAGE I;Not Hispanic Or Latino;0.7403;No;Male;1
+P4;63;STAGE IIA;Not Hispanic Or Latino;0.4651;No;Male;1
+P5;28;STAGE IB;Not Hispanic Or Latino;0.2333;No;Female;1
+P6;54;STAGE IV;Not Hispanic Or Latino;0.2240;No;Male;1
+P7;74;STAGE III;Not Hispanic Or Latino;0.2761;Yes;Female;1
+P8;25;STAGE I/II (NOS);Not Hispanic Or Latino;0.2139;No;Male;1
+P9;39;STAGE I;Not Hispanic Or Latino;0.8190;No;Female;1
+P10;24;;Not Hispanic Or Latino;0.2729;No;Female;0
+P11;55;STAGE IB;Not Hispanic Or Latino;0.1962;No;Male;0
+P12;66;STAGE II;Not Hispanic Or Latino;0.2283;No;Female;0
+P13;54;STAGE IIIB;Not Hispanic Or Latino;0.2805;No;Male;0
+P14;18;STAGE III;Not Hispanic Or Latino;0.5418;No;Female;0
+P15;60;STAGE I/II (NOS);Not Hispanic Or Latino;0.4596;No;Male;1
+P16;57;STAGE III;Not Hispanic Or Latino;0.1123;No;Male;1
+P17;36;STAGE IB;Not Hispanic Or Latino;0.6290;No;Female;1
+P18;40;;Not Hispanic Or Latino;0.5512;No;Male;1
+P19;72;STAGE IIIB;Not Hispanic Or Latino;0.6057;No;Male;0
+P20;58;STAGE IIIC;Not Hispanic Or Latino;0.3664;No;Male;1
+P21;42;;Not Hispanic Or Latino;0.5624;No;Male;1
+P22;37;STAGE IIIC;Not Hispanic Or Latino;0.4855;No;Male;0
+P23;57;STAGE IIC;Not Hispanic Or Latino;0.2818;No;Male;0
+P24;63;STAGE IIC;Not Hispanic Or Latino;0.4664;No;Female;1
+P25;62;STAGE IIB;Not Hispanic Or Latino;0.2216;No;Male;1
+P26;82;STAGE IIA;Not Hispanic Or Latino;0.3502;No;Male;0
+P27;34;STAGE I;Not Hispanic Or Latino;0.1991;No;Female;0
+P28;46;STAGE III;Not Hispanic Or Latino;0.2394;No;Female;1
+P29;62;STAGE IIB;Not Hispanic Or Latino;0.2548;;Female;0
+P30;;STAGE I/II (NOS);Not Hispanic Or Latino;0.5899;Yes;Male;0
+P31;51;STAGE IIIB;Not Hispanic Or Latino;0.5154;Yes;Male;0
+P32;54;STAGE I;Not Hispanic Or Latino;0.3650;No;Male;0
+P33;56;STAGE IIIA;Not Hispanic Or Latino;0.6479;No;Male;0
+P34;77;STAGE IIIC;Not Hispanic Or Latino;0.2000;No;Male;1
+P35;53;STAGE IIIC;Not Hispanic Or Latino;0.3723;No;Female;0
+P36;25;STAGE III;Not Hispanic Or Latino;0.4699;No;Male;1
+P37;66;STAGE II;Not Hispanic Or Latino;0.2260;No;Male;1
+P38;82;;Not Hispanic Or Latino;0.2321;No;Male;0
+P39;75;;Not Hispanic Or Latino;0.5925;No;Male;0
+P40;63;STAGE IIIA;Not Hispanic Or Latino;0.5349;No;Female;1
+P41;85;STAGE III;Not Hispanic Or Latino;0.3671;No;Male;1
+P42;36;STAGE IB;Not Hispanic Or Latino;0.6603;No;Male;0
+P43;43;STAGE IA;Not Hispanic Or Latino;0.3465;No;Male;0
+P44;26;STAGE I;Not Hispanic Or Latino;0.4919;No;Male;1
+P45;42;STAGE IB;Not Hispanic Or Latino;0.1810;Yes;Female;0
+P46;;STAGE I/II (NOS);Not Hispanic Or Latino;0.3785;No;Female;0
+P47;52;STAGE IIIB;;0.2249;No;Male;0
+P48;82;STAGE IIC;Not Hispanic Or Latino;0.5018;No;Male;1
+P49;53;STAGE I;Not Hispanic Or Latino;0.3075;Yes;Male;0
+P50;30;STAGE II;Not Hispanic Or Latino;0.3107;No;Male;1
+P51;48;;Not Hispanic Or Latino;0.1923;No;Female;0
+P52;68;STAGE IIB;Not Hispanic Or Latino;0.6758;No;Male;0
+P53;63;STAGE IIA;Not Hispanic Or Latino;0.1601;No;Male;0
+P54;43;STAGE IIIC;Not Hispanic Or Latino;0.2759;No;Female;1
+P55;47;;Not Hispanic Or Latino;0.9683;No;Female;0
+P56;54;STAGE IIB;Hispanic Or Latino;0.2093;Yes;Female;1
+P57;55;STAGE III;Not Hispanic Or Latino;0.2018;No;Male;1
+P58;42;STAGE III;Not Hispanic Or Latino;0.2512;No;Male;0
+P59;58;STAGE IIC;Not Hispanic Or Latino;0.0993;No;Female;0
+P60;38;STAGE I;Not Hispanic Or Latino;0.3933;No;Female;0
+P61;36;STAGE II;Not Hispanic Or Latino;0.2993;No;Male;1
+P62;59;STAGE IA;Not Hispanic Or Latino;0.1907;No;Female;1
+P63;79;STAGE IIC;Not Hispanic Or Latino;0.0946;No;Female;1
+P64;50;STAGE IB;Not Hispanic Or Latino;0.1952;No;Male;1
+P65;49;STAGE IIIC;Not Hispanic Or Latino;0.2875;No;Male;0
+P66;68;STAGE IIIA;;0.2878;No;Male;1
+P67;42;STAGE 0;Not Hispanic Or Latino;0.4349;Yes;Male;
+P68;55;STAGE IIA;Not Hispanic Or Latino;0.2349;No;Female;1
+P69;45;STAGE III;Not Hispanic Or Latino;0.5553;No;Male;1
+P70;49;STAGE I;Not Hispanic Or Latino;0.0550;No;Male;1
+P71;45;;Not Hispanic Or Latino;0.0963;No;Male;1
+P72;73;STAGE IIB;Not Hispanic Or Latino;0.2431;No;Male;1
+P73;59;STAGE IA;Not Hispanic Or Latino;0.3208;No;Female;0
+P74;60;STAGE II;Not Hispanic Or Latino;0.5939;No;Female;1
+P75;63;STAGE II;Not Hispanic Or Latino;0.5551;No;Male;1
+P76;63;STAGE IIA;Not Hispanic Or Latino;0.1559;No;Male;0
+P77;19;STAGE III;Not Hispanic Or Latino;0.3123;No;Male;0
+P78;59;STAGE IIC;Not Hispanic Or Latino;0.2438;No;Male;1
+P79;56;STAGE IIIB;Not Hispanic Or Latino;0.1723;No;Male;1
+P80;48;STAGE IIC;Not Hispanic Or Latino;0.3382;No;Male;0
+P81;47;STAGE IA;Not Hispanic Or Latino;0.1892;Yes;Male;0
+P82;;;Not Hispanic Or Latino;0.6065;No;Female;0
+P83;48;STAGE 0;Not Hispanic Or Latino;0.1353;No;Male;
+P84;52;STAGE I;Not Hispanic Or Latino;0.1542;No;Male;1
+P85;56;STAGE IIIA;Not Hispanic Or Latino;0.3233;No;Male;1
+P86;68;STAGE IB;Not Hispanic Or Latino;0.0094;Yes;Male;0
+P87;49;;Not Hispanic Or Latino;0.2686;No;Male;1
+P88;77;STAGE IIB;Not Hispanic Or Latino;0.1513;No;Male;0
+P89;36;STAGE IB;Not Hispanic Or Latino;0.1363;No;Male;1
+P90;50;STAGE IIIC;Not Hispanic Or Latino;0.3291;No;Male;1
+P91;77;STAGE IIA;Not Hispanic Or Latino;0.2191;No;Female;0
+P92;62;;Hispanic Or Latino;0.2982;No;Male;1
+P93;71;STAGE II;Not Hispanic Or Latino;0.3302;No;Male;1
+P94;72;STAGE IIIB;Not Hispanic Or Latino;0.6179;No;Male;1
+P95;37;STAGE IIIB;Not Hispanic Or Latino;0.6137;No;Female;0
+P96;45;STAGE I;Not Hispanic Or Latino;0.4247;No;Male;1
+P97;37;;Not Hispanic Or Latino;0.2918;No;Female;1
+P98;81;;Not Hispanic Or Latino;0.1518;No;Female;0
+P99;19;STAGE IIIC;Not Hispanic Or Latino;0.2954;No;Male;1
+P100;58;STAGE IV;Not Hispanic Or Latino;0.3817;No;Male;0
+P101;75;STAGE IIIA;Not Hispanic Or Latino;0.3797;No;Female;0
+P102;56;;Not Hispanic Or Latino;0.7953;No;Male;0
+P103;44;STAGE I;Not Hispanic Or Latino;0.1626;Yes;Male;0
+P104;70;STAGE 0;Not Hispanic Or Latino;0.0124;No;Female;
+P105;82;;Not Hispanic Or Latino;0.1682;No;Male;1
+P106;23;STAGE III;Not Hispanic Or Latino;0.2217;No;Female;0
+P107;80;;Not Hispanic Or Latino;0.2547;No;Female;1
+P108;27;STAGE IV;Not Hispanic Or Latino;0.2672;No;Female;0
+P109;63;STAGE IIC;Not Hispanic Or Latino;0.2992;No;Male;0
+P110;77;STAGE IIA;Not Hispanic Or Latino;0.1631;No;Male;0
+P111;56;STAGE IIC;Not Hispanic Or Latino;0.3809;No;Female;0
+P112;73;STAGE IIC;Not Hispanic Or Latino;0.4631;No;Female;0
+P113;42;STAGE IB;Not Hispanic Or Latino;0.3863;No;Male;1
+P114;40;STAGE IIIC;Not Hispanic Or Latino;0.3172;No;Female;1
+P115;79;STAGE IIIB;Not Hispanic Or Latino;0.5184;No;Male;0
+P116;48;STAGE IIA;Not Hispanic Or Latino;0.5260;No;Male;0
+P117;59;STAGE IIIC;Not Hispanic Or Latino;0.2864;Yes;Female;0
+P118;65;STAGE IV;Not Hispanic Or Latino;0.3181;No;Female;1
+P119;57;STAGE II;Not Hispanic Or Latino;0.1993;No;Male;1
+P120;67;STAGE IIIC;Not Hispanic Or Latino;0.3403;No;Male;1
+P121;30;STAGE IIIA;Not Hispanic Or Latino;0.2509;No;Female;1
+P122;39;STAGE I/II (NOS);Not Hispanic Or Latino;0.1391;No;Male;0
+P123;56;STAGE IV;Not Hispanic Or Latino;0.2889;No;Female;0
+P124;30;STAGE III;Not Hispanic Or Latino;0.2805;Yes;Male;0
+P125;54;STAGE IB;Not Hispanic Or Latino;0.0641;No;Male;0
+P126;24;STAGE IIIC;Not Hispanic Or Latino;0.1256;No;Male;1
+P127;62;STAGE IIIB;Not Hispanic Or Latino;0.5450;No;Male;0
+P128;34;STAGE IIC;Not Hispanic Or Latino;0.4814;No;Male;0
+P129;54;STAGE III;Not Hispanic Or Latino;0.0178;No;Female;1
+P130;77;STAGE I;Not Hispanic Or Latino;0.4323;No;Male;1
+P131;43;STAGE IIIA;Not Hispanic Or Latino;0.1371;No;Male;1
+P132;70;STAGE IIIA;Not Hispanic Or Latino;0.3934;No;Female;1
+P133;63;STAGE IIC;Not Hispanic Or Latino;0.2153;No;Male;0
+P134;49;STAGE IIIC;Not Hispanic Or Latino;0.2576;No;Male;0
+P135;64;STAGE II;Not Hispanic Or Latino;0.0391;Yes;Male;0
+P136;40;;Not Hispanic Or Latino;0.3956;Yes;Male;0
+P137;54;STAGE IB;Not Hispanic Or Latino;0.8886;No;Female;1
+P138;20;STAGE IB;Not Hispanic Or Latino;0.4169;No;Male;1
+P139;66;STAGE III;Not Hispanic Or Latino;0.2226;No;Male;1
+P140;74;STAGE III;Not Hispanic Or Latino;0.6907;No;Male;0
+P141;57;STAGE IIIB;Not Hispanic Or Latino;0.2056;No;Female;0
+P142;25;STAGE IV;Not Hispanic Or Latino;0.1424;No;Female;0
+P143;61;STAGE IIC;Hispanic Or Latino;0.1831;No;Male;0
+P144;63;STAGE IIIC;Not Hispanic Or Latino;0.1537;No;Female;0
+P145;39;STAGE IIIB;Not Hispanic Or Latino;0.0809;No;Male;0
+P146;51;STAGE I/II (NOS);Not Hispanic Or Latino;0.4177;No;Male;1
+P147;68;STAGE IIC;Not Hispanic Or Latino;0.3394;No;Male;1
+P148;69;STAGE IIIB;;0.6045;No;Male;1
+P149;30;STAGE IV;Not Hispanic Or Latino;0.5262;No;Male;0
+P150;46;STAGE IIIB;;0.3595;Yes;Female;1
+P151;71;STAGE IA;Not Hispanic Or Latino;0.2204;No;Male;1
+P152;83;STAGE IIC;Not Hispanic Or Latino;0.3013;No;Male;0
+P153;56;STAGE IIIC;Not Hispanic Or Latino;0.1987;No;Female;0
+P154;55;STAGE III;Not Hispanic Or Latino;0.5309;No;Male;0
+P155;36;STAGE IIIB;;0.3322;No;Female;0
+P156;57;STAGE III;Not Hispanic Or Latino;0.2941;No;Female;0
+P157;57;STAGE IA;Not Hispanic Or Latino;0.2744;No;Female;0
+P158;51;STAGE IIIC;Not Hispanic Or Latino;0.3444;No;Male;1
+P159;33;STAGE IB;Not Hispanic Or Latino;0.3782;No;Female;0
+P160;48;STAGE IIIC;Not Hispanic Or Latino;0.3115;Yes;Female;1
+P161;53;;Not Hispanic Or Latino;0.0423;No;Male;0
+P162;77;STAGE IIA;Not Hispanic Or Latino;0.2218;No;Female;1
+P163;49;STAGE IIC;Not Hispanic Or Latino;0.2864;No;Male;0
+P164;74;STAGE IIIC;Not Hispanic Or Latino;0.1355;Yes;Female;0
+P165;47;STAGE III;Not Hispanic Or Latino;0.0310;No;Male;0
+P166;40;STAGE IV;Not Hispanic Or Latino;0.0251;No;Female;0
+P167;15;STAGE I;Not Hispanic Or Latino;0.5348;Yes;Female;0
+P168;23;STAGE I;Not Hispanic Or Latino;0.0134;No;Male;1
+P169;78;STAGE IIIB;Not Hispanic Or Latino;0.0988;Yes;Male;0
+P170;52;STAGE I;Not Hispanic Or Latino;0.3208;No;Male;1
+P171;48;STAGE IIIB;Not Hispanic Or Latino;0.2427;No;Male;1
+P172;43;STAGE IIIC;Hispanic Or Latino;0.4513;No;Male;0
+P173;56;STAGE IIIB;Not Hispanic Or Latino;0.0008;No;Male;1
+P174;46;STAGE III;Not Hispanic Or Latino;0.4682;No;Female;1
+P175;71;STAGE IV;Not Hispanic Or Latino;0.2740;No;Female;1
+P176;58;STAGE IIC;Not Hispanic Or Latino;0.3033;No;Female;1
+P177;76;STAGE IIA;Not Hispanic Or Latino;0.5330;Yes;Female;1
+P178;39;STAGE IIC;Not Hispanic Or Latino;0.3531;No;Male;1
+P179;45;STAGE IIIB;Not Hispanic Or Latino;0.8546;Yes;Male;0
+P180;71;STAGE IIIC;Not Hispanic Or Latino;0.5900;No;Male;0
+P181;56;STAGE IIIC;Not Hispanic Or Latino;0.2753;No;Female;1
+P182;42;STAGE IIB;Not Hispanic Or Latino;0.2755;No;Female;0
+P183;70;STAGE IIC;Not Hispanic Or Latino;0.7092;No;Female;0
+P184;84;STAGE IIIB;Not Hispanic Or Latino;0.3770;No;Female;0
+P185;83;STAGE IA;Not Hispanic Or Latino;0.2800;No;Male;1
+P186;75;STAGE IIIC;Not Hispanic Or Latino;0.2402;No;Female;1
+P187;61;STAGE IB;Not Hispanic Or Latino;0.1664;No;Female;0
+P188;47;STAGE III;Not Hispanic Or Latino;0.3012;No;Male;1
+P189;27;STAGE I/II (NOS);Not Hispanic Or Latino;0.1790;No;Female;0
+P190;51;;Not Hispanic Or Latino;0.1376;Yes;Male;0
+P191;78;STAGE I/II (NOS);Not Hispanic Or Latino;0.1698;No;Male;1
+P192;29;STAGE II;Not Hispanic Or Latino;0.2720;Yes;Female;0
+P193;82;STAGE IIB;Not Hispanic Or Latino;0.1449;No;Male;0
+P194;53;STAGE IIC;Not Hispanic Or Latino;0.0006;No;Female;0
+P195;24;STAGE IV;Not Hispanic Or Latino;0.0899;No;Male;1
+P196;51;;Not Hispanic Or Latino;0.4683;No;Female;0
+P197;;STAGE I/II (NOS);Not Hispanic Or Latino;0.2875;No;Female;0
+P198;54;STAGE IIIC;Not Hispanic Or Latino;0.8794;No;Male;1
+P199;18;STAGE II;Not Hispanic Or Latino;0.1860;No;Male;0
+P200;81;STAGE IIIC;Hispanic Or Latino;0.4145;No;Female;0
+P201;37;STAGE IIC;Not Hispanic Or Latino;0.2478;;Male;0
+P202;57;STAGE IIIC;Not Hispanic Or Latino;0.6994;No;Female;1
+P203;65;STAGE IB;Not Hispanic Or Latino;0.0543;Yes;Female;0
+P204;69;STAGE IIIC;Not Hispanic Or Latino;0.0114;No;Female;0
+P205;60;STAGE III;Not Hispanic Or Latino;0.6123;No;Female;0
+P206;41;STAGE IA;Not Hispanic Or Latino;0.0146;No;Male;0
+P207;51;STAGE I;Not Hispanic Or Latino;0.0051;No;Male;1
+P208;49;STAGE II;Not Hispanic Or Latino;0.0421;No;Male;0
+P209;62;STAGE IIC;Not Hispanic Or Latino;0.3874;No;Male;0
+P210;61;STAGE I;Not Hispanic Or Latino;0.5779;No;Male;0
+P211;75;STAGE IIIB;Not Hispanic Or Latino;0.0004;No;Male;0
+P212;54;STAGE IIIB;Not Hispanic Or Latino;0.1193;No;Female;0
+P213;78;STAGE IIC;Not Hispanic Or Latino;0.2767;No;Female;1
+P214;63;STAGE IV;Not Hispanic Or Latino;0.2556;No;Male;1
+P215;63;STAGE II;Not Hispanic Or Latino;0.3788;No;Male;0
+P216;72;STAGE II;Not Hispanic Or Latino;0.2164;No;Male;1
+P217;71;STAGE IIC;Not Hispanic Or Latino;0.5419;No;Male;0
+P218;65;STAGE IV;Not Hispanic Or Latino;0.3164;No;Male;1
+P219;34;STAGE I;Not Hispanic Or Latino;0.0658;No;Male;0
+P220;39;STAGE IIIB;Not Hispanic Or Latino;0.4153;No;Female;0
+P221;42;STAGE III;Not Hispanic Or Latino;0.0081;No;Male;0
+P222;53;STAGE IIIA;Not Hispanic Or Latino;0.5769;No;Male;0
+P223;73;STAGE IIB;Not Hispanic Or Latino;0.2082;Yes;Male;1
+P224;66;STAGE II;Not Hispanic Or Latino;0.4682;No;Female;0
+P225;87;STAGE IV;Not Hispanic Or Latino;0.4012;No;Male;0
+P226;82;STAGE II;Not Hispanic Or Latino;0.4017;No;Female;1
+P227;68;STAGE III;Not Hispanic Or Latino;0.0773;No;Male;0
+P228;74;STAGE IIC;Not Hispanic Or Latino;0.4657;No;Male;0
+P229;70;STAGE III;Not Hispanic Or Latino;0.0001;No;Male;1
+P230;32;STAGE IIIB;Not Hispanic Or Latino;0.4810;No;Female;1
+P231;75;STAGE IIIC;Not Hispanic Or Latino;0.8300;No;Female;0
+P232;70;STAGE IIC;Not Hispanic Or Latino;0.4868;No;Female;1
+P233;53;STAGE III;Not Hispanic Or Latino;0.5224;No;Female;0
+P234;48;STAGE IB;Not Hispanic Or Latino;0.0444;No;Male;1
+P235;65;STAGE IA;Not Hispanic Or Latino;0.2893;No;Female;0
+P236;57;STAGE IIB;Not Hispanic Or Latino;0.2126;No;Male;1
+P237;59;STAGE IV;Not Hispanic Or Latino;0.5556;No;Female;0
+P238;67;STAGE IIA;Not Hispanic Or Latino;0.5397;No;Male;1
+P239;63;STAGE I;Not Hispanic Or Latino;0.0957;;Male;0
+P240;39;STAGE 0;Not Hispanic Or Latino;0.9421;Yes;Male;
+P241;73;STAGE IIC;Not Hispanic Or Latino;0.1650;No;Female;1
+P242;52;STAGE II;Not Hispanic Or Latino;0.2798;No;Male;1
+P243;85;STAGE IIIC;Not Hispanic Or Latino;0.3269;No;Male;1
+P244;68;STAGE IA;Not Hispanic Or Latino;0.4324;No;Male;1
+P245;47;;Not Hispanic Or Latino;0.0267;No;Female;1
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
